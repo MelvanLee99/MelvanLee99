@@ -12,13 +12,11 @@ My research experience includes **machine learning, artificial intelligence, env
 
 ## 🧑‍🔬 About Me
 
-- 🎓 **M.S. in Computational Science** 
-- 🎓 **B.S. in Mathematics**
+- 🎓 **M.S. in Computational Science, Bandung of Institute Technology (ITB)** 
+- 🎓 **B.S. in Mathematics, Bandung of Institute Technology (ITB)**
 - 🤖 Interested in **Artificial Intelligence & Machine Learning**
 - 🔍 Interested in **Explainable & Reliable AI**
 - 🧮 Interested in **Mathematical Modeling & Optimization**
-- 📝 Exploring **Natural Language Processing**
-- 💻 Main programming language: **Python, R, SQL**
 
 ---
 
