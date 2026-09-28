@@ -6,7 +6,7 @@ Hello! I'm Melvan, a **Master of Science in Computational Science** graduate wit
 
 My interests lie at the intersection of **mathematics, computational science, machine learning, and artificial intelligence**. I enjoy applying mathematical and computational approaches to scientific and real-world problems.
 
-My research experience includes **machine learning, fuzzy neural networks, environmental modeling, spatial data science, computational astronomy, explainable AI, and natural language processing**.
+My research experience includes **machine learning, artificial intelligence, environmental modeling, spatial modelling, quantitative analysis, and explainable AI**.
 
 ---
 
