@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Melvan
+# 👋 Hi there
 
 ### Mathematics • Computational Science • Data Science • Machine Learning • Artificial Intelligence
 
